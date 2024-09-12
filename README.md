@@ -1,6 +1,10 @@
+<img src="https://i.postimg.cc/28b0T7JW/Getty-Images-1391218601.jpg" alt="Image">
+
+
+
 ## 🚀 **Welcome to Ashwin's Data Universe!**
 
-Hey there, fellow explorer! 🌌 You’ve landed on my corner of the internet where data meets creativity. Whether you’re here to check out some cool projects, find a collaborator,looking for a good candiate for your team, you’re in the right place.
+Hey there, fellow explorer! 🌌 You’ve landed on my corner of the internet where data meets creativity. Whether you’re here to check out some projects, find a collaborator,looking for a good candiate for your team so you’re in the right place.
 
 ---
 
