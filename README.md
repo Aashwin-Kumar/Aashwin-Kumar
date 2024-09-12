@@ -88,3 +88,9 @@ Want to chat about **data**, **tech**, or even your latest Netflix binge? I’m 
 ### 🌟 **Ready to Collaborate?**
 
 If you're working on something exciting—especially in the **data** or **AI** space let's team up and make something awesome. I’m always open to cool collaborations and fresh ideas!
+
+
+
+
+
+_"Everyone was a beginner once, just like me. They found their path with the help of a mentor, I’m still on the hunt for mine."_
