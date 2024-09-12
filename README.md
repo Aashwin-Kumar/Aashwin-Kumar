@@ -74,9 +74,9 @@ Here are some data adventures I’ve been on recently.
 
 Here are some Certs I’ve picked up along my learning journey. They keep me inspired and pushing forward:
 
-🌐 IBM: [Python for data science](https://courses.cognitiveclass.ai/certificates/f881af7e95274823a0df5bebce2f9586)
-🌐 Tata : [Virtual Internship](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_PZSKriehS66Q4vQrm_1720023813128_completion_certificate.pdf)
-🌐 IBM: [Data Analysis](https://courses.cognitiveclass.ai/certificates/b13128089a7e46a98a9dc5c18449ff29)
+🌟 IBM: [Python for data science](https://courses.cognitiveclass.ai/certificates/f881af7e95274823a0df5bebce2f9586)
+🌟 Tata : [Virtual Internship](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Tata/MyXvBcppsW2FkNYCX_Tata%20Group_PZSKriehS66Q4vQrm_1720023813128_completion_certificate.pdf)
+🌟 IBM: [Data Analysis](https://courses.cognitiveclass.ai/certificates/b13128089a7e46a98a9dc5c18449ff29)
 
 
 
