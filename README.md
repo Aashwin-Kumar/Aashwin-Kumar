@@ -100,3 +100,9 @@ If you're working on something exciting—especially in the **data** or **AI** s
 
 
 _"Everyone was a beginner once, just like me. They found their path with the help of a mentor, I’m still on the hunt for mine."_
+
+
+
+<div align="center">
+  <img src="https://i.postimg.cc/bvqL4h9Z/thank-you-keanu-reeves.gif" alt="Image" width=auto height=260>
+</div>
