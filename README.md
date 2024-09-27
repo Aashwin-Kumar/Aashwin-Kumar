@@ -58,15 +58,19 @@ Here’s what I’m nurturing in my skill garden right now:
 
 Here are some data adventures I’ve been on recently. 
 
+1. **SMS Spam Prediction App**  
+   - **Tech Stack**: Python, Pandas, Matplotlib, Numpy, Excel
+   - uses machine learning to predict whether an SMS message is spam or not.
+   - Live Project Link : [Clean SMS](https://cleansms.streamlit.app/)
+
+2. **🧠 Sales Forecasting Dashboard**  
+   - **Tech Stack**: Python, Pandas, Numpy, sklearn, Streamlit 
+   - A visual journey into the future of sales, powered by data and predictions.
+
 1. **🤑 ElectionFundFlow**  
    - **Tech Stack**: Python, Pandas, Matplotlib, Numpy, Excel
    - This analysis sheds light on the electoral bonds landscape in India
-
-2. **🧠 Sales Forecasting Dashboard**  
-   - **Tech Stack**: Power BI, SQL  
-   - A visual journey into the future of sales, powered by data and predictions.
-
-
+   - 
 ---
 
 ### 🏅 **Badges of Honor**
