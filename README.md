@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.postimg.cc/XNzL6LrZ/threebody.gif" alt="Image" width=auto height=auto>
+  <img src="https://i.postimg.cc/pT0ZTYk6/821jrbzchww81.gif" alt="Image" width=auto height=300>
 </div>
 
 
